@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaGPT", "YaGPT\YaGPT.csproj", "{6ADA1DBE-3EC1-414A-B852-0ABA4304A4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexGPTWrapper", "YandexGPTWrapper\YandexGPTWrapper.csproj", "{B837C666-891F-45E1-9418-D2C82BF39203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaGPT.Tests", "YaGPT.Tests\YaGPT.Tests.csproj", "{365E70D9-D63D-415E-97CC-D0AA40900154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ADA1DBE-3EC1-414A-B852-0ABA4304A4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADA1DBE-3EC1-414A-B852-0ABA4304A4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADA1DBE-3EC1-414A-B852-0ABA4304A4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADA1DBE-3EC1-414A-B852-0ABA4304A4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B837C666-891F-45E1-9418-D2C82BF39203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B837C666-891F-45E1-9418-D2C82BF39203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B837C666-891F-45E1-9418-D2C82BF39203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B837C666-891F-45E1-9418-D2C82BF39203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365E70D9-D63D-415E-97CC-D0AA40900154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365E70D9-D63D-415E-97CC-D0AA40900154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365E70D9-D63D-415E-97CC-D0AA40900154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365E70D9-D63D-415E-97CC-D0AA40900154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
